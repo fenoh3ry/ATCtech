@@ -1,6 +1,6 @@
 ### Konnichiwa👋
 ![AS](Icon/AS_laptop.png)
-######  
+#
     Name = 'Ankush Singh'
     Interests = ['Coding','Youtubing','Anime','Manga','memes']
     Languages = ['Python3','Java','C#','Arduino','HTML + CSS']
