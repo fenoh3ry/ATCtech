@@ -1,5 +1,5 @@
 ### Konnichiwa👋
-![In Code We Trust](Icon/in_code_we_trust.png)
+![In Code We Trust](Icon/In_code_we_trust.png)\
     Name = 'Ankush Singh'
     Interests = ['Coding','Youtubing','Anime','Manga','memes']
     Languages = ['Python3','Java','C#','Arduino','HTML + CSS']
